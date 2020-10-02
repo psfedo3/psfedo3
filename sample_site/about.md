@@ -3,7 +3,7 @@ title: About Actions
 layout: page
 ---
 
-## Comparison
+## Comparison by
 
 Github's Actions functionality as a build and deploy pipeline for a Jekyll site gives more control than a standard _Github Pages_ deploy.
 
